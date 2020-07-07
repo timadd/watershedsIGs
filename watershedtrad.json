@@ -1,0 +1,14 @@
+{
+	"file": "https://github.com/timadd/watershedsIGs/blob/master/watersheds_trad_Jul7.csv",
+	"name": "Indigenous communities x Watersheds in AB and BC",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 1, "name": "Watershed" }
+		{ "type": "id", "index": 2, "name": "Indigenous community" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 2 }
+	]
+}
