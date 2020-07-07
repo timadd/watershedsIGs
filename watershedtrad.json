@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/timadd/watershedsIGs/blob/master/watersheds_trad_Jul7.csv",
+	"file": "https://raw.githubusercontent.com/timadd/watershedsIGs/master/watersheds_trad_Jul7.csv",
 	"name": "Indigenous communities x Watersheds in AB and BC",
 	"header": 0,
 	"separator": ";",
